@@ -13,4 +13,3 @@ Use this to document your daily progress (2 hours/day).
 | 7 | | | | | | 2 |
 
 💡 *Tip:* End each day by summarizing what concept “clicked” for you — it deepens understanding and helps me tailor next steps.
-
