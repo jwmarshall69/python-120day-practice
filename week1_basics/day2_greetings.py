@@ -9,3 +9,4 @@ print("Hello " + name + ", you are " + age + " years old!")
 
 # Optional: Try using f-strings (cleaner way to format text)
 print(f"Hi {name}! You're {age} years young.")
+
